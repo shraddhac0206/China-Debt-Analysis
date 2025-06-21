@@ -1,4 +1,4 @@
-# China Debt Analysis: Unpacking Debt-Trap Diplomacy
+# China Debt Analysis
 
 This project investigates **China's international lending practices** and the growing discourse around *debt-trap diplomacy*. By analyzing datasets related to Chinese loans to developing nations, we aim to understand the scale, pattern, and impact of China's debt-driven influence on economically vulnerable countries.
 
